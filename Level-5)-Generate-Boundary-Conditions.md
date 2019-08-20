@@ -1,4 +1,4 @@
-Now we need to install PyNEMO, this is a boss level!!
+Now we need to install PyNEMO
 
 First we need to install miniconda::
 
