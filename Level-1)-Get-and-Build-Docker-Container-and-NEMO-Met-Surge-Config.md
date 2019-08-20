@@ -1,6 +1,3 @@
-Level 1) Get and Build Docker Container and NEMO Met Surge Config
------------------------------------------------------------------
-
 I used this tutorial created by Pierre DERIAN with some changes to reflect the relevent revison of XIOS2 and the metoffice surge nemo code (different to main trunk) Derian's git hub is here https://github.com/pderian/NEMOGCM-Docker
 
 Follow the steps below as there is some differences to Pierre's method::
