@@ -1,7 +1,6 @@
-C-RISC wiki for creating NEMO 1/12 degree model in Docker container
-============================================================
+# First section covers how to build and run a NEMO tide and surge model in a docker container
 
-Summary:
+## First section Summary:
 * Setup and build XIOS and NEMO on a docker image
 * Create 12th degree coordinates file for desired region
 * Generate bathymetry file for this region
@@ -9,3 +8,7 @@ Summary:
 * Generate tide boundary conditions
 * Generate wind and pressure boundary conditions
 * Run with tides and surges forcing
+
+# Second section covers how to build and use operational components to run the NEMO model on a daily basis and provide storm surge warnings..
+
+## Second section summary:
