@@ -1,6 +1,6 @@
 # C_RISC Wiki
 
-## Levels 1 to 8 cover how to build and run a NEMO tide and surge model in a docker container
+## First section covers how to build and run a NEMO tide and surge model in a docker container
 
 ### Topics covered:
 
