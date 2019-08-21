@@ -1,8 +1,7 @@
 # C_RISC Wiki
 
-## First section covers how to build and run a NEMO tide and surge model in a docker container
+## Levels 1 to 8 covers how to build and run a NEMO tide and surge model in a docker container
 
-### First section Summary:
 * Setup and build XIOS and NEMO on a docker image
 * Create 12th degree coordinates file for desired region
 * Generate bathymetry file for this region
