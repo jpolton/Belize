@@ -5,7 +5,7 @@
 [Generate domain config file](https://github.com/NOC-MSM/C-RISC/wiki/Level-4:-Generate-a-domain-configuration-file)  
 [Generate Boundary Conditions](https://github.com/NOC-MSM/C-RISC/wiki/Level-5:-Generate-Boundary-Conditions)  
 [Get Wind and Pressure data](https://github.com/NOC-MSM/C-RISC/wiki/Level-6:-Get-Wind-and-Pressure-Data-for-surface-boundaries)  
-[Running model with tide forcing](https://github.com/NOC-MSM/C-RISC/wiki/Level-7:-Running-model-with-tidal-forcing-at-the-boundaries-on-NEMO-docker-instance)  
+[Preparing model with tide forcing](https://github.com/NOC-MSM/C-RISC/wiki/Level-7:-Running-model-with-tidal-forcing-at-the-boundaries-on-NEMO-docker-instance)  
 [Running model](https://github.com/NOC-MSM/C-RISC/wiki/Level-8:-Run-the-model)  
 [Create NOWCAST container](https://github.com/NOC-MSM/C-RISC/wiki/Level-9:-Create-nowcast-docker-container)  
 [Install dependancies](https://github.com/NOC-MSM/C-RISC/wiki/Level-10:-Download-and-install-relevent-dependancies)  
