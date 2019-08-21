@@ -2,7 +2,7 @@
 
 ## Levels 1 to 8 cover how to build and run a NEMO tide and surge model in a docker container
 
-Topics covered:
+## Topics covered:
 
 * Setup and build XIOS and NEMO on a docker image
 * Create 12th degree coordinates file for desired region
