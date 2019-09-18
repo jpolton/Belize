@@ -26,7 +26,7 @@ This should result in four folders with the NEMO code in one folder, and xios2.0
 
 Edit the DEBIAN arch file to point to XIOS2 not XIOS::
 
-  nano $HOME/nemo-nowcast-docker/SRC/NEMOGCM/ARCH/arch-DEBIAN.fcm
+  	nano $HOME/nemo-nowcast-docker/SRC/NEMOGCM/ARCH/arch-DEBIAN.fcm
 	...
 	%XIOS_HOME           /SRC/XIOS2
 
